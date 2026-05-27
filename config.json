@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsrocess",
+        "uuid": 7482800,
+        "checksum": "r7v61e"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
